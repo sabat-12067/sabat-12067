@@ -56,7 +56,7 @@
 
   <img width=278  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestpractice116&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="bestpractice116" />
 
-  <img width=412 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabat-12067&theme=dark&hide_border=false" alt="bestpractice116" style="vertical-align: top;" />
+  <img width=412 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabat-12067&theme=dark&hide_border=false" alt="sabat-12067" style="vertical-align: top;" />
 
 <br>
 </div>
