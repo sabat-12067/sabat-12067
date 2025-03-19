@@ -4,7 +4,7 @@
    <br>
    <p align="center"> 
       <p align="center">
-       <img alt="ViewCount" src="https://views.whatilearened.today/views/github/bestpractice116/github-clone-count-badge.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://personal-portfolio-bice-tau.vercel.app/" target='_blank'><img src="https://img.shields.io/badge/portfolio-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" width="80" height="20" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:bestpractice8116@gmail.com"><img src="https://img.shields.io/badge/Email-me-red" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.twitter.com/bestpractice116"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="80" height="20" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/paul-breen-passion/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="20" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.github.com/bestpractice116"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="60" height="20" /></a>  
+       <img alt="ViewCount" src="https://views.whatilearened.today/views/github/bestpractice116/github-clone-count-badge.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://personal-portfolio-bice-tau.vercel.app/" target='_blank'><img src="https://img.shields.io/badge/portfolio-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" width="80" height="20" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:bestpractice8116@gmail.com"><img src="https://img.shields.io/badge/Email-me-red" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.twitter.com/#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="80" height="20" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/#/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="20" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.github.com/bestpractice116"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="60" height="20" /></a>  
    </p>
    </p>
 </div>
@@ -75,6 +75,6 @@
     />
   </picture>
 
-  ![Sabat Tan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bestpractice116&custom_title=Paul%20Breen's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+  ![Sabat Tan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bestpractice116&custom_title=Sabat%20Tan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <hr/>
