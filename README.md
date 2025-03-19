@@ -4,7 +4,7 @@
    <br>
    <p align="center"> 
       <p align="center">
-       <img alt="ViewCount" src="https://views.whatilearened.today/views/github/sabat-12067/github-clone-count-badge.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://personal-portfolio-bice-tau.vercel.app/" target='_blank'><img src="https://img.shields.io/badge/portfolio-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" width="80" height="20" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:bestpractice8116@gmail.com"><img src="https://img.shields.io/badge/Email-me-red" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.twitter.com/#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="80" height="20" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/#/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="20" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.github.com/sabat-12067"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="60" height="20" /></a>  
+       <img alt="ViewCount" src="https://views.whatilearened.today/views/github/sabat-12067/github-clone-count-badge.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://personal-portfolio-bice-tau.vercel.app/" target='_blank'><img src="https://img.shields.io/badge/portfolio-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" width="80" height="20" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:sabat12067@gmail.com"><img src="https://img.shields.io/badge/Email-me-red" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.twitter.com/#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="80" height="20" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/#/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="20" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.github.com/sabat-12067"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="60" height="20" /></a>  
    </p>
    </p>
 </div>
@@ -54,9 +54,9 @@
 <div align=center>
   <img width=352  src="https://github-readme-stats.vercel.app/api?username=sabat-12067&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="sabat-12067" />
 
-  <img width=278  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabat-12067&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="sabat-12067" />
+  <img width=278  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestpractice116&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="sabat-12067" />
 
-   <img width=412 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bestpractice116&theme=dark&hide_border=false" alt="bestpractice116" style="vertical-align: top;" />
+  <img width=412 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bestpractice116&theme=dark&hide_border=false" alt="bestpractice116" style="vertical-align: top;" />
 
 <br>
 </div>
