@@ -1,6 +1,6 @@
 <div align="center">
 
-   # Senior Software Engineer | Full Stack AI Expert
+   # Senior Software Engineer | Full Stack Engineering Lead
    <br>
    <p align="center"> 
       <p align="center">
