@@ -3,10 +3,10 @@
    # Senior Software Engineer | Full Stack Engineering Lead
    <br>
    <p align="center"> 
-      <p align="center">
+      <!-- <p align="center">
        <img alt="ViewCount" src="https://views.whatilearened.today/views/github/sabat-12067/github-clone-count-badge.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://sabat-portfolio.vercel.app/" target='_blank'><img src="https://img.shields.io/badge/portfolio-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" width="80" height="20" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:greatdev12067@gmail.com"><img src="https://img.shields.io/badge/Email-me-red" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="80" height="20" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="20" /></a>    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.github.com/sabat-12067"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="60" height="20" /></a>  
-   </p>
+   </p> -->
    </p>
 </div>
 <div align="center">
@@ -14,7 +14,7 @@
    <div align="left">
       Senior Software Engineer with 8 years of experience building and scaling web applications used in real production environments. I’ve worked across product-driven teams and client-facing projects, taking ownership from early design through implementation, delivery, and ongoing improvement. My background spans both frontend and backend development, with a strong focus on performance, reliability, and maintainable code. I care deeply about user experience and practical problem-solving. In my experience, the best systems are the ones that feel simple to users while handling complex logic behind the scenes. I’ve led feature development, collaborated closely with designers and stakeholders, and helped teams move faster by making thoughtful technical decisions without overengineering. Beyond writing code, I enjoy improving processes, mentoring teammates, and contributing to a culture of ownership and accountability. I’m comfortable working in fast-moving environments, adapting to new tools and domains quickly, and delivering value even when requirements are evolving.
       <br/>
-      **❤️I’m committed to continuous learning and long-term growth as an engineer, always looking to sharpen my skills, expand my perspective, and build software that has real impact.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+      ❤️I’m committed to continuous learning and long-term growth as an engineer, always looking to sharpen my skills, expand my perspective, and build software that has real impact.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    </div>
    <hr>
 </div>
